@@ -1,4 +1,4 @@
-<?php
+git<?php
 // config/database.php
 
 $host = 'localhost'; 
